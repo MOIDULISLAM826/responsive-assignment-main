@@ -1,0 +1,12 @@
+.panda-card{
+    border: 0;
+}
+
+.btn-warning{
+    background-color: #9bb33d;
+}
+.panda-card-footer{
+    display: flex;
+    background-color:white;
+    border: 0;
+}
